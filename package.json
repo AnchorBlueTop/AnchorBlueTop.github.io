@@ -1,0 +1,23 @@
+{
+  "name": "anchorbluetop.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnchorBlueTop/AnchorBlueTop.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnchorBlueTop/AnchorBlueTop.github.io/issues"
+  },
+  "homepage": "https://github.com/AnchorBlueTop/AnchorBlueTop.github.io#readme",
+  "dependencies": {
+    "puppeteer": "^13.1.1"
+  }
+}
